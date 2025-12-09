@@ -5,9 +5,9 @@ As part of this project, I have explored the basic functions of Tableau.
 
 Using the EMSI_JobChange_UK dataset, I have created a dashboard.
 - Using a bar chart, showing percentage change 
-![](Tableau_Task_1)
+![](Tableau_Task_1.png)
 - UK based map showing the key city locations impacted
-![](Tableau_Task_2)
+![](Tableau_Task_2.png)
 
 Using the **Extension_Task_SpotifyFeatures** dataset, I have conducted an analysis to find:
 - Trends
